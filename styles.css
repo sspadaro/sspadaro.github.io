@@ -1,16 +1,16 @@
 body {
-  background: [pick a color];
+  background-color: AliceBlue;
   font-family: Arial, Helvetica, sans-serif;
 }
 h1 { 
-  color: [pick a font color];
+  color: DarkSlateGray;
   text-align: center;
 }
 .assign {
   display: flex;
   padding: 10px;
   margin: 10px;
-  background: [pick a color];
+  background: WhiteSmoke;
 }
 .assign img {
   width: 200px;
