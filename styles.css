@@ -6,14 +6,29 @@ h1 {
   color: AliceBlue;
   text-align: center;
 }
+a {
+  text-decoration: none;
+  color: midnightblue;
+}
 .assign {
   display: flex;
   padding: 10px;
   margin: 10px;
   background: WhiteSmoke;
 }
+.assign {
+  border-radius: 20px;
+}
 .assign img {
   width: 200px;
   padding: 10px;
 }
-
+.assign img {
+  padding: 10px;
+  border: 2px solid midnightblue;
+}
+Explain a:hover, img:hover, h1:hover
+a:hover {
+ text-decoration: none;
+ color: salmon;
+}
